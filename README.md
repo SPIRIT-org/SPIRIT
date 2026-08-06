@@ -30,6 +30,29 @@ We are currently in the development phase, progress is documented here and on th
 11. **[DIY build guide](https://github.com/V3lectronics/SPIRIT/wiki/DIY-build-guide)** _Coming soon!!!_
 12. **[Resources](https://github.com/barbarjan/SPIRIT#resources)**
 
+
+
+# Concept images
+<small> (click image to expand it) </small>
+
+<table>
+  <tr>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/phones-paired-closeup.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/phone-rear-closeup.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/privacy-switches-closeup.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/floatingA.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/floatingB.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+    <td><img src="branding/Olive-Mavleaugue-early-renders/front-angled.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
+  </tr>
+</table>
+
+
+
 # Roadmap
 
 ### **Chassis**  
@@ -45,29 +68,11 @@ Integrate systems into one motherboard or modular setup.
 Documented separately, see [OS article](https://github.com/V3lectronics/SPIRIT/wiki/Operating-system).
 
 
-# Early screenshots
-<small> (click to expand) </small>
-
-<table>
-  <tr>
-    <td><img src="branding/motherboardA-15-08-2025.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-    <td><img src="branding/motherboardB-15-08-2025.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-    <td><img src="branding/motherboardC-15-08-2025.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="branding/Freecad-ss-2025-08-15_09-00.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-    <td><img src="branding/PCB-editor-ss-2025-08-15_08-45.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-    <td><img src="branding/PCB-editor-ss-2025-08-15_08-57.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
-  </tr>
-</table>
 
 # Resources
 - [SPIRIT wiki](https://github.com/V3lectronics/SPIRIT/wiki)
 - [Rpi CM5 datasheet](https://datasheets.raspberrypi.com/cm5/cm5-datasheet.pdf)
 - [Rpi CM4 datasheet](https://datasheets.raspberrypi.com/cm4/cm4-datasheet.pdf)
-- [Rpi CM5 and CM 4 useful interactive pinout](https://atctwo.net/projects/pinout/index.html)
+- [Rpi CM5 and CM4 useful interactive pinout](https://atctwo.net/projects/pinout/index.html)
 
 
