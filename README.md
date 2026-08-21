@@ -50,6 +50,7 @@ We are currently in the development phase, progress is documented here and on th
     <td><img src="branding/Olive-Mavleaugue-early-renders/front-angled.png" alt="motherboard PCB image" width: 100%; height: auto;" /></td>
   </tr>
 </table>
+<small> Made by OliveOil-Design </small>
 
 
 
